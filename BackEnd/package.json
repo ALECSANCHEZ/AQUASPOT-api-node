@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.935.0",
+    "aws-xray-sdk-core": "^3.3.3",
+    "aws-xray-sdk-mysql": "^3.3.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "model": "^6.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "mysql2-promise": "^0.1.4",
+    "nodemon": "^2.0.7",
+    "pymysql": "^1.0.0",
+    "sequelize": "^6.6.2"
+  },
+  "name": "backend2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
